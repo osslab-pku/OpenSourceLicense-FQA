@@ -32,3 +32,10 @@
 答：如果这个软件没有其他贡献者，软件的作者可以直接将许可证由Apache替换为MulanPSL-2.0；
 如果软件有其他贡献者，需要征得所有贡献者同意，软件的作者才能将软件的许可证由Apache替换为MulanPSL-2.0；
 如果贡献者修改软件或者将软件集成到自己项目中，可以使用MulanPSL-2.0对衍生软件的整体进行授权（因为Apache组合兼容MulanPSL-2.0），但需要满足衍生软件中原Apache授权部分仍然遵循Apache的约束。
+
+
+## 木兰宽松许可证，第2版（Mulan PSL v2）与业界主流许可证兼容情况如何？
+
+许可证的兼容性评判并无统一标准。我们从Mulan PSL v2的条款及目的出发，认为Mulan PSL v2与BSD类许可证类似，兼容性很好。BSD、MIT类宽松许可证兼容Mulan PSL v2许可证；Mulan PSL v2兼容Apache License v2.0、L/GPLv2、L/GPLv3等许可证。即，许可在BSD、MIT类许可证下的代码可以贡献到Mulan PSL v2的项目中，许可在Mulan PSL v2下的代码可以贡献到Apache License V2.0、L/GPLv2或L/GPLv3等的项目中。
+
+注意，许可证A兼容许可证B（A许可证是B许可证 Compatible）是指，A授权的作品与B授权的作品经过修改或合并，可以使用B对作品的整体进行授权。兼容性是有方向的，A兼容B，但B不一定兼容A。
