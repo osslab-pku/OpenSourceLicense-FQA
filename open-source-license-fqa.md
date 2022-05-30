@@ -53,11 +53,11 @@
 ![image](https://user-images.githubusercontent.com/24621557/171003826-ef8e6534-7852-4f86-90a4-bc25c2775178.png)
 ### 问：常见开源软件的授权与使用？
 - （1）mySQL的使用？   
-答：mySQL采用双重授权(dual license)(< https://dev.mysql.com/doc/refman/8.0/en/what-is-mysql.html>)。MySQL社区版使用GPL-2.0 授权，意味着任何人都可以使用和修改软件，而无需支付任何费用，您还可以研究源代码并更改它以满足您的需要。如果你对GPL不满意，或者需要将MySQL代码嵌入到一个商业应用程序中，您可以购买一个商业许可证版本(<http://www.mysql.com/company/legal/licensing/oem/>)。     
+答：mySQL采用双重授权(dual license)(<https://dev.mysql.com/doc/refman/8.0/en/what-is-mysql.html>)。MySQL社区版使用GPL-2.0 授权，意味着任何人都可以使用和修改软件，而无需支付任何费用，您还可以研究源代码并更改它以满足您的需要。如果你对GPL不满意，或者需要将MySQL代码嵌入到一个商业应用程序中，您可以购买一个商业许可证版本(<http://www.mysql.com/company/legal/licensing/oem/>)。     
 - （2）mongDB的使用？     
 答：MongoDB 社区版在2018年10月16日之后发布的所有版本采用SSPL授权；MongoDB社区版在2018年10月16日之前发布的版本仍采用AGPL-3.0授权(<https://www.mongodb.com/community/licensing>)。
 SSPL-1.0与AGPL-3.0都规定，如果使用MongoDB软件或使用基于MongoDB源码制作的软件，通过交互的方式为第三方提供服务，则必须根据其授权条款，通过网络下载向每个人免费提供该服务源代码（即MongoDB软件或基于MongoDB源码制作的软件）。      
-不同的是，SSPL-1.0的13条还规定，向第三方提供服务，当该服务的价值全部或主要来源于MongoDB（或基于MongoDB制作的软件），或者该服务是为第三方使用MongoDB（或基于MongoDB制作的软件）提供帮助，那么该服务的源码也须要根据SSPL-1.0免费提供（< https://www.mongodb.com/licensing/server-side-public-license>）。      
+不同的是，SSPL-1.0的13条还规定，向第三方提供服务，当该服务的价值全部或主要来源于MongoDB（或基于MongoDB制作的软件），或者该服务是为第三方使用MongoDB（或基于MongoDB制作的软件）提供帮助，那么该服务的源码也须要根据SSPL-1.0免费提供（<https://www.mongodb.com/licensing/server-side-public-license>）。      
 也就是说，AGPL-3.0对提供SAAS的程序具有免费公开源码的限制性，而SSPL-1.0对提供SAAS、PAAS、IAAS的程序都有免费公开源码的限制性（只要该服务的价值主要源于SSPL-1.0授权的软件）。     
 值得注意的是，SSPL-1.0未经OSI认证通过。     
 - （3）Linux kernel的使用？     
