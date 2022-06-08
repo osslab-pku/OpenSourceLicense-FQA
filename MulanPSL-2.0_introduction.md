@@ -11,7 +11,7 @@ Mulan PSL v2与BSD 3-clause License与Apache License V2.0在声明义务、专�
 | 商标许可 | 无 | 无 | 无 |
 | 语言 | 1.采用中英双语表述，中英文版本具有相同法律效力；2.如果中英文版本存在任何冲突不一致，以中文版为准。 | 采用英文表述 | 采用英文表述 |
 ## 木兰宽松许可证，第2版（Mulan PSL v2）与业界主流许可证兼容情况如何？
-许可证的兼容性评判并无统一标准。我们从Mulan PSL v2的条款及目的出发，认为Mulan PSL v2与BSD类许可证类似，兼容性很好。BSD、MIT类宽松许可证兼容Mulan PSL v1许可证；Mulan PSL v1兼容Apache License v2.0、L/GPLv2、L/GPLv3等许可证。即，许可在BSD、MIT类许可证下的代码可以贡献到Mulan PSL v1的项目中，许可在Mulan PSL v1下的代码可以贡献到Apache License V2.0、L/GPLv2或L/GPLv3等的项目中。<br>
+许可证的兼容性评判并无统一标准。我们从Mulan PSL v2的条款及目的出发，认为Mulan PSL v2与BSD类许可证类似，兼容性很好。BSD、MIT类宽松许可证兼容Mulan PSL v2许可证；Mulan PSL v2兼容Apache License v2.0、L/GPLv2、L/GPLv3等许可证。即，许可在BSD、MIT类许可证下的代码可以贡献到Mulan PSL v2的项目中，许可在Mulan PSL v2下的代码可以贡献到Apache License V2.0、L/GPLv2或L/GPLv3等的项目中。<br>
 注意，许可证A兼容许可证B（A许可证是B许可证 Compatible）是指，A授权的作品与B授权的作品经过修改或合并，可以使用B对作品的整体进行授权。兼容性是有方向的，A兼容B，但B不一定兼容A。
 ## 木兰宽松许可证，第2版（Mulan PSL v2）与木兰宽松许可证，第1版（Mulan PSL v1）的区别？
 木兰宽松许可证，第2版（Mulan PSL v2）相较于木兰宽松许可证，第1版（Mulan PSL v1）增加了语言条款，声明中文为规范语言，对文本表述和格式进一步规范。Mulan PSL v2的特点具体如下：<br>
