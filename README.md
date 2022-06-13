@@ -4,7 +4,7 @@
 [许可证常见问题解答](open-source-license-fqa.md)
 
 
-Copyright (c)  2022  [name of copyright holder]   
+Copyright (c)  2022  OSSLab-PKU   
 OpenSourceLicense-repo is licensed under Mulan PSL v2.   
 You can use this software according to the terms and conditions of the Mulan PSL v2.   
 You may obtain a copy of Mulan PSL v2 at:   
