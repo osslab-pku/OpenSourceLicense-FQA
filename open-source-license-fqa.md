@@ -137,5 +137,6 @@
 - CECILL许可证  <https://cecill.info/faq.en.html>
 - EPL许可证  <https://www.eclipse.org/legal/epl-2.0/faq.php> , <https://www.eclipse.org/legal/eplfaq.php>
 - EUPL许可证  <https://joinup.ec.europa.eu/collection/eupl/how-use-eupl>
-- MPL许可证  <https://www.mozilla.org/en-US/MPL/1.1/FAQ/> , <https://www.mozilla.org/en-US/MPL/2.0/FAQ/> , <https://www-archive.mozilla.org/mpl/relicensing-faq>
+- MPL许可证  <https://www.mozilla.org/en-US/MPL/1.1/FAQ/> , <https://www.mozilla.org/en-US/MPL/2.0/FAQ/> ,    
+&emsp;&emsp;&emsp;&emsp;&emsp;<https://www-archive.mozilla.org/mpl/relicensing-faq>
 - 0BSD许可证  <http://landley.net/toybox/license.html>
