@@ -129,3 +129,13 @@
 &emsp;&emsp;不同的是，SSPL-1.0的13条还规定，向第三方提供服务，当该服务的价值全部或主要来源于MongoDB（或基于MongoDB制作的软件），或者该服务是为第三方使用MongoDB（或基于MongoDB制作的软件）提供帮助，那么该服务的源码也须要根据SSPL-1.0免费提供（<https://www.mongodb.com/licensing/server-side-public-license>）。      
 &emsp;&emsp;也就是说，AGPL-3.0对提供SAAS的程序具有免费公开源码的限制性，而SSPL-1.0对提供SAAS、PAAS、IAAS的程序都有免费公开源码的限制性（只要该服务的价值主要源于SSPL-1.0授权的软件）。     
 &emsp;&emsp;值得注意的是，SSPL-1.0未经OSI认证通过。     
+
+## 常见开源许可证的官网FQA?
+- Apache-2.0许可证  <https://www.apache.org/foundation/license-faq.html>
+- GPL许可证  <https://www.gnu.org/licenses/gpl-faq.html>
+- MulanPSL许可证  <http://license.coscl.org.cn/faq.html>
+- CECILL许可证  <https://cecill.info/faq.en.html>
+- EPL许可证  <https://www.eclipse.org/legal/epl-2.0/faq.php> , <https://www.eclipse.org/legal/eplfaq.php>
+- EUPL许可证  <https://joinup.ec.europa.eu/collection/eupl/how-use-eupl>
+- MPL许可证  <https://www.mozilla.org/en-US/MPL/1.1/FAQ/> , <https://www.mozilla.org/en-US/MPL/2.0/FAQ/> , <https://www-archive.mozilla.org/mpl/relicensing-faq>
+- 0BSD许可证  <http://landley.net/toybox/license.html>
