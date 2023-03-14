@@ -123,6 +123,10 @@ Mulan PSL v2 能被 OSI 认证通过取决于几点：
 &emsp;&emsp;Linux内核的GPL传染性有个特例，可以通过系统调用的方式隔离，这是因为Linux 内核的作者 Linus Torvalds 在Linux内核源码文件中澄清了普通系统调用为非 GPL 的作用范围。这个“Linux内核工具”使用的GPL组件如果不属于上述情况，须要证明该工具不是GPL组件的衍生作品，否则只能用GPL，因为GPL还没有兼容木兰协议。
 
 
+##  其他问题
+
+### 问：我负责的项目SRS采用[MIT or MulanPSL-2.0](https://github.com/ossrs/srs/blob/develop/LICENSE.DUAL)双协议授权，计划引入一个项目是[MIT-style](https://github.com/c-ares/c-ares)授权的项目？请问这种修改过的MIT协议，是否对项目有影响？它属于BSD还是Apache兼容？
+
 
 ## 常见开源软件的授权与使用
 
